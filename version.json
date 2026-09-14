@@ -1,10 +1,1 @@
-{
-  "apkSha256": "184e0b782de28da7d2a7c44e41b4487e1f7cf661532f060ca53a4dbffc853084",
-  "apkSizeBytes": 3400979,
-  "apkUrl": "https://raw.githubusercontent.com/doublehidenblade/nightrun-game/main/nightrun-1.4.1.apk",
-  "packageName": "com.craig.nightrun",
-  "releaseNotes": "v1.4.1: fixed the post-launch crash (bitmap recycling, 224 shared bitmaps down to 32), real 3-2-1-GO countdown with instant launch, collision bounds matched to car sprites, capped flank yaw, distant traffic reads via taillight bloom, visible amber nitro bar, smoother S-curve, single moon, trees in sector B, red/white corner kerbs. 165 tests green. Known gaps for v1.5: near-field train pass, wheel-steer sprite bake, lamp fixture treatment.",
-  "signerSha256": "cf6ae8481ad3b3a6558e1985ad9327f714c89b093e90abe3956e6b71ae3600d4",
-  "versionCode": 7,
-  "versionName": "1.4.1"
-}
+{"apkSha256":"c52a6cb89e7627ada7677014224176a8c2230f5d54a2c52f250c56a8bd1a0c6f","apkSizeBytes":"3260111","apkUrl":"https://raw.githubusercontent.com/doublehidenblade/nightrun-game/main/nightrun-1.4.2.apk","packageName":"com.craig.nightrun","releaseNotes":"v1.4.2: (1) Crash reporter — if the game crashes it now saves the full technical trace and shows it on next launch with COPY/SHARE so the real cause can be diagnosed. The crash itself is NOT yet fixed — it still needs a captured trace. (2) Road-shape fix: near-field road edges no longer kink on straights. (3) True side-profile car views when steering (previously a yawed rear view). (4) In-app update check fixed (was failing on a version-file key mismatch).","signerSha256":"cf6ae8481ad3b3a6558e1985ad9327f714c89b093e90abe3956e6b71ae3600d4","versionCode":"8","versionName":"1.4.2"}
