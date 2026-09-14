@@ -1,5 +1,10 @@
 {
-  "apk_url": "https://raw.githubusercontent.com/doublehidenblade/nightrun-game/main/nightrun-1.3.apk",
-  "versionCode": 5,
-  "versionName": "1.3"
+  "apkSha256": "c54578b549bc484f5ea88032245c1932884d5d94741a9ee08c06e15885595c46",
+  "apkSizeBytes": 3398807,
+  "apkUrl": "https://raw.githubusercontent.com/doublehidenblade/nightrun-game/main/nightrun-1.4.apk",
+  "packageName": "com.craig.nightrun",
+  "releaseNotes": "v1.4: holdable steering + barrier kisses on a wider track, restored v1.2-style speed dash, Ferrari flank variants, visible/dodgeable traffic, dressed roadside + freight train, rival reskin. Full suite 137 green.",
+  "signerSha256": "cf6ae8481ad3b3a6558e1985ad9327f714c89b093e90abe3956e6b71ae3600d4",
+  "versionCode": 6,
+  "versionName": "1.4"
 }
