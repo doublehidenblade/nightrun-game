@@ -1,10 +1,10 @@
 {
-  "apkSha256": "c54578b549bc484f5ea88032245c1932884d5d94741a9ee08c06e15885595c46",
-  "apkSizeBytes": 3398807,
-  "apkUrl": "https://raw.githubusercontent.com/doublehidenblade/nightrun-game/main/nightrun-1.4.apk",
+  "apkSha256": "184e0b782de28da7d2a7c44e41b4487e1f7cf661532f060ca53a4dbffc853084",
+  "apkSizeBytes": 3400979,
+  "apkUrl": "https://raw.githubusercontent.com/doublehidenblade/nightrun-game/main/nightrun-1.4.1.apk",
   "packageName": "com.craig.nightrun",
-  "releaseNotes": "v1.4: holdable steering + barrier kisses on a wider track, restored v1.2-style speed dash, Ferrari flank variants, visible/dodgeable traffic, dressed roadside + freight train, rival reskin. Full suite 137 green.",
+  "releaseNotes": "v1.4.1: fixed the post-launch crash (bitmap recycling, 224 shared bitmaps down to 32), real 3-2-1-GO countdown with instant launch, collision bounds matched to car sprites, capped flank yaw, distant traffic reads via taillight bloom, visible amber nitro bar, smoother S-curve, single moon, trees in sector B, red/white corner kerbs. 165 tests green. Known gaps for v1.5: near-field train pass, wheel-steer sprite bake, lamp fixture treatment.",
   "signerSha256": "cf6ae8481ad3b3a6558e1985ad9327f714c89b093e90abe3956e6b71ae3600d4",
-  "versionCode": 6,
-  "versionName": "1.4"
+  "versionCode": 7,
+  "versionName": "1.4.1"
 }
